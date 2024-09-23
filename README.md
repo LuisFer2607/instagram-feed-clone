@@ -6,11 +6,11 @@
 
 ---
 
-## 📸 Screenshot
+## 📸 Capturas de Pantalla
 
-<img src="/public/Screenshot1.gif" alt="Instagram Logo" width="228" height="526" />
-
-<img src="/public/Screenshot2.gif" alt="Instagram Logo" width="228" height="526" />
+| <img src="/public/Screenshot1.gif" alt="Feed de Instagram con una publicación" width="228" height="526" /> | <img src="/public/Screenshot2.gif" alt="Perfil de usuario de Instagram" width="228" height="526" /> |
+|---|---|
+| **Figura 1:** Interfaz intuitiva para navegar por historias recientes. | **Figura 2:** Feed de Instagram mostrando dos publicaciones recientes. |
 
 ---
 
